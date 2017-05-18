@@ -1,7 +1,7 @@
 Requirements:
 1. install tensorflow
 2. install flask
-3. python3
+3. python3 and other imported modules (numpy, scikitlearn, scipy etc)
 
 
 -- file train.ipynb
